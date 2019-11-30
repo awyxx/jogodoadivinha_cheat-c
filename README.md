@@ -1,2 +1,3 @@
-# JogoDoAdivinha_Cheat
-Jogo do adivinha o número em C, e um "pequeno" cheat para o mesmo
+## Jogo do adivinha e um cheat para o mesmo
+# Antes de executar o Hack.exe deve ter o Target.exe aberto.
+Feito para Windows
